@@ -1,0 +1,7 @@
+name 'apache'
+maintainer 'Amartinb'
+maintainer_email 'alfonsomartinb@example.com'
+license 'all_rights'
+description 'Installs/Configures apache'
+long_description 'Installs/Configures apache using Chef'
+version '0.1.1'
